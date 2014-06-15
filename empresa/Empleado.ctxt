@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ aumentar_sueldo(double)
+comment1.params=
+comment1.target=void\ aumentar_edad()
+comment2.params=
+comment2.target=int\ mostrar_sueldo_tot()
+numComments=3

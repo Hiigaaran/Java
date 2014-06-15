@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Estimador_Pesos()
+comment1.params=i
+comment1.target=void\ setPeso_Total(int)
+comment2.params=
+comment2.target=void\ Estimador()
+comment3.params=
+comment3.target=int\ getPeso_Total()
+comment4.params=
+comment4.target=void\ imprimir_Resultados()
+numComments=5

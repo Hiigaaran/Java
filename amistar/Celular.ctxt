@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ mostrar_info_plan()
+comment1.params=x
+comment1.target=void\ aumentar_minutos(int)
+comment2.params=y
+comment2.target=void\ aumentar_valorPlan(int)
+comment3.params=
+comment3.target=void\ desactivar_cel()
+comment4.params=
+comment4.target=void\ reiniciar_cantmin()
+comment5.params=
+comment5.target=double\ calcular_precio_min()
+comment6.params=x\ y
+comment6.target=void\ activar_celular(int,\ int)
+comment7.params=
+comment7.target=void\ incrementar_msg()
+comment8.params=msg
+comment8.target=int\ obtener_tot_msg(int)
+comment9.params=msg
+comment9.target=int\ calcular_tot_plan(int)
+numComments=10

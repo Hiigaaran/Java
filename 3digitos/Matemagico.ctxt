@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=Matemagico(int)
+comment1.params=
+comment1.target=int\ getNum()
+comment2.params=
+comment2.target=void\ Do_Matemagico()
+comment3.params=
+comment3.target=int\ getSum()
+numComments=4

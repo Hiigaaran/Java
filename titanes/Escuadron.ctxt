@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ crear_lista()
+comment1.params=
+comment1.target=void\ registrar_soldado()
+comment2.params=
+comment2.target=void\ printEscuadron()
+comment3.params=
+comment3.target=void\ cambiar_estado()
+comment4.params=
+comment4.target=void\ listar_bajas()
+comment5.params=
+comment5.target=void\ promedio_edad()
+comment6.params=
+comment6.target=void\ actualizar_lista()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lienzo()
+comment1.params=
+comment1.target=void\ mover_bote()
+comment2.params=
+comment2.target=void\ subir_al_bote()
+comment3.params=
+comment3.target=void\ bajar_del_bote()
+comment4.params=
+comment4.target=void\ espaciado()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ imprimir_datos_estudiante()
+comment1.params=x
+comment1.target=void\ aumentar_peso_estudiante(int)
+comment2.params=y
+comment2.target=void\ disminuir_estatura_estudiante(double)
+comment3.params=
+comment3.target=int\ mostrar_peso_gr()
+numComments=4

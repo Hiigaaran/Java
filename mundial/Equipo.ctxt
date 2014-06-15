@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Equipo()
+comment1.params=numero\ pais\ grupo\ jugador1
+comment1.target=Equipo(int,\ java.lang.String,\ char,\ Jugador)
+comment10.params=
+comment10.target=void\ printEquipo()
+comment11.params=
+comment11.target=void\ listarDatos()
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=
+comment3.target=java.lang.String\ getPais()
+comment4.params=
+comment4.target=char\ getGrupo()
+comment5.params=
+comment5.target=Jugador\ getJugador1()
+comment6.params=numero
+comment6.target=void\ setNumero(int)
+comment7.params=pais
+comment7.target=void\ setPais(java.lang.String)
+comment8.params=grupo
+comment8.target=void\ setGrupo(char)
+comment9.params=jugador1
+comment9.target=void\ setJugador1(Jugador)
+numComments=12
