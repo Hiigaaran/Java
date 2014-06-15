@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Opciones()
+comment1.params=
+comment1.target=void\ mover_bote()
+comment2.params=
+comment2.target=void\ subir_bote_misionero()
+comment3.params=
+comment3.target=void\ subir_bote_canibal()
+comment4.params=cont
+comment4.target=void\ bajar_bote(int)
+numComments=5
