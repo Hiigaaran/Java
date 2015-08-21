@@ -1,0 +1,15 @@
+SMAP
+randomizador_jsp.java
+JSP
+*S JSP
+*F
++ 0 randomizador.jsp
+randomizador.jsp
+*L
+5,15:45
+20:60,2
+21,2:62,3
+23:68
+24:69,5
+25,6:74
+*E
